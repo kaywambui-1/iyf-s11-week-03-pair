@@ -1,0 +1,19 @@
+How many HTML files are in your portfolio project? 
+- 2 files
+Which files contain the word "contact"? 
+- src/backup.html
+- src/index.html
+How many lines is your CSS file?
+- 64 lines
+What were your last 10 terminal commands?
+- grep "class" index.html
+- grep -r "button" ./src/
+- ls
+- ls src
+- head -10 src/styles.css
+- tail -10 src/styles.css
+- wc index.html
+- grep -r "contact" src
+- wc -src/styles.css
+- history
+
