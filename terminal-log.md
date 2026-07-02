@@ -1,9 +1,9 @@
 # commands used
-> mkdir
+> mkdir my-project
 
-> touch
+> touch styles.css
 
-> cd
+> cd src
 
 > ls
 
