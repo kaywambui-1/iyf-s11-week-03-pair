@@ -1,4 +1,5 @@
 # iyf-s11-week-03-kaywambui-1
+## Christine Kamau 
 # Christine Kamau 
 ## Week 03 Project
 
@@ -11,9 +12,9 @@ This repository contains my Week 03 portfolio project, built as part of my web d
 
 ## Features
 
-- ✅ About, Projects, and Contact pages
-- ✅ Organized project structure
-- ✅ Git version control with meaningful commit history
+✅ About, Projects, and Contact pages
+✅ Organized project structure
+✅ Git version control with meaningful commit history
 
 ## Technologies Used
 
