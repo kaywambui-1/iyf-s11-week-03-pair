@@ -5,14 +5,11 @@ This repository contains my Week 03 portfolio project, built as part of my web d
 
 ## Live Demo
 
-[View Live Site](https://kaywambui-1.github.io/iyf-s11-week-03-kaywambui-1)## Screenshot
+[View Live Site](https://kaywambui-1.github.io/iyf-s11-week-03-kaywambui-1)
 
-## project screenshot
+## Screenshot
 
 ![Project Screenshot](c:\Users\PC\Pictures\Screenshots\Screenshot 2026-07-03 161349.png)
-
-
-
 
 ## Features
 
@@ -20,7 +17,6 @@ This repository contains my Week 03 portfolio project, built as part of my web d
 - Accessible semantic HTML structure
 - Navigation across multiple pages
 - Contact page/form section
-
 
 ## Technologies Used
 
@@ -31,7 +27,7 @@ This repository contains my Week 03 portfolio project, built as part of my web d
 ## Project Structure
 
 \`\`\`
-iyf-s10-week-03-yourusername/
+iyf-s11-week-03-kaywambui-1/
 ├── index.html
 ├── about.html
 ├── projects.html
@@ -43,10 +39,10 @@ iyf-s10-week-03-yourusername/
 
 ## What I Learned
 
- - I practiced and improved several important development skills, including:
+I practiced and improved several important development skills, including:
 
 - Navigating the terminal using commands like `pwd`, `ls`, `cd`, `mkdir`, and file operations
-  
+
 ## Future Improvements
 
 - [ ] Add JavaScript interactivity
@@ -59,3 +55,5 @@ iyf-s10-week-03-yourusername/
 - **GitHub:** (https://github.com/kaywambui-1)
 
 ## License
+
+This project is open source and available under the [MIT License](LICENSE).
